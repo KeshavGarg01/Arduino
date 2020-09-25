@@ -19,6 +19,6 @@ SOFTWARE REQUIRED:
   > View,reset timer 
   > View Status of every appliance
 
-#NOTE:
+#NOTE
 Change the HEX CODES used in switch statements that are used to take the input from the HEX CODES of your IR REMOTE.
 (It may not be same)
