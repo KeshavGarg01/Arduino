@@ -1,4 +1,4 @@
-# Arduino
+# HOME AUTOMATION (IR remote)
 This project is based on the concept of HOME AUTOMATION.
 Install this system in the respective switch boards (circuit board) and enjoy controlling the your appliances via remote.
 
@@ -18,6 +18,9 @@ SOFTWARE REQUIRED:
   > Set on/off time
   > View,reset timer 
   > View Status of every appliance
+  
+# Get Started
+Before getting started with the project (combining all the gardware together) try to implement the working of each hardware (LCD, IR, RTC) individually for the sample examples.
 
 # NOTE
 Change the HEX CODES used in switch statements that are used to take the input from the HEX CODES of your IR REMOTE.
