@@ -25,3 +25,5 @@ Before getting started with the project (combining all the gardware together) tr
 # NOTE
 Change the HEX CODES used in switch statements that are used to take the input from the HEX CODES of your IR REMOTE.
 (It may not be same)
+Provide 3.3V to LCD display 
+Use Resistor while connecting LED bulb
