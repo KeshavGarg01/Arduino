@@ -23,4 +23,7 @@ LCD DISPLAY to ARDUINO:
       D7  -----> 2
       A   -----> 5V
       K   -----> GND
+LED bulb to ARDUINO:
+      Small wire(-ve) -----> GND
+      Longer wire(+ve)-----> 5V
        
