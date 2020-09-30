@@ -23,7 +23,7 @@ SOFTWARE REQUIRED:
 Before getting started with the project (combining all the gardware together) try to implement the working of each hardware (LCD, IR, RTC) individually for the sample examples.
 
 # NOTE
-Change the HEX CODES used in switch statements that are used to take the input from the HEX CODES of your IR REMOTE.
+  1. Change the HEX CODES used in switch statements that are used to take the input from the HEX CODES of your IR REMOTE.
 (It may not be same)
-Provide 3.3V to LCD display 
-Use Resistor while connecting LED bulb
+  2. Provide 3.3V to LCD display 
+  3. Use Resistor while connecting LED bulb
